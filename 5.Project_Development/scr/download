@@ -1,0 +1,6 @@
+PORT=5000
+MONGO_URI=mongodb://tamilselvan423211_db_user:i9sGCxtpQQmbU5fK@ac-3wu2czt-shard-00-00.r1zkpks.mongodb.net:27017,ac-3wu2czt-shard-00-01.r1zkpks.mongodb.net:27017,ac-3wu2czt-shard-00-02.r1zkpks.mongodb.net:27017/?ssl=true&replicaSet=atlas-5k80zj-shard-0&authSource=admin&appName=tamil01
+JWT_ACCESS_SECRET=your_super_secret_jwt_key_12345!
+JWT_REFRESH_SECRET=my_super_secret_college_project_refresh_key_999#
+GEMINI_API_KEY=AQ.Ab8RN6KKaT0zeTHKt1h4yXuKKyGZhCjFJ8szAZb_3UfpHzZskw
+NODE_ENV=development
